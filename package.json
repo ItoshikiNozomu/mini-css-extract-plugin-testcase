@@ -1,0 +1,12 @@
+{
+  "dependencies": {
+    "css-loader": "^3.2.0",
+    "file-loader": "^4.2.0",
+    "mini-css-extract-plugin": "^0.8.0",
+    "webpack": "^4.41.2"
+  },
+  "scripts": {
+    "build": "node build/webpack.js"
+  }
+
+}
